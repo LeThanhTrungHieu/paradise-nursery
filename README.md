@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Paradise Nursery
 
 Paradise Nursery is an online plant shop shopping cart application built with React and Redux Toolkit.
